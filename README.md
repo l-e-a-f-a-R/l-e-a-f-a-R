@@ -2,8 +2,7 @@
 
  <div>
    <a href="https://github.com/l-e-a-f-a-R">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l-e-a-f-a-R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-e-a-f-a-R&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l-e-a-f-a-R&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 </div>
 <div style="display: inline_block"><br>
