@@ -21,6 +21,6 @@
   <a href = "mailto:rafaelsalarof2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/profiles/76561199054612426/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/l-e-a-f-a-R/l-e-a-f-a-R/blob/output/github-contribution-grid-snake.svg)
 
 </div>
